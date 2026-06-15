@@ -1,0 +1,10 @@
+title       = "vietjack"
+baseURL     = "https://vietjack-cli.tamnd.com/"
+description = "A command line for vietjack."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/vietjack-cli"
